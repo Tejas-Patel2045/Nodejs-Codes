@@ -1,0 +1,173 @@
+{
+    "cuisine":[
+        {
+            "id":1,
+            "name":"National Picks",
+            "position":1,
+            "imageUrl":"https://munch-n-give-app.s3.amazonaws.com/cuisine/nationalpicks-3x.png"
+        },
+        {
+            "id":2,
+            "name":"American",
+            "position":2,
+            "imageUrl":"https://munch-n-give-app.s3.amazonaws.com/cuisine/American.png"
+        },
+        {
+            "id":3,
+            "name":"Thai",
+            "position":3,
+            "imageUrl":"https://munch-n-give-app.s3.amazonaws.com/cuisine/Thai.png"
+        },
+        {
+            "id":4,
+            "name":"Hamburgers",
+            "position":4,
+            "imageUrl":"https://munch-n-give-app.s3.amazonaws.com/cuisine/Hamburgers.png"
+        },
+        {
+            "id":5,
+            "name":"Fast Food",
+            "position":5,
+            "imageUrl":"https://munch-n-give-app.s3.amazonaws.com/cuisine/FastFood.png"
+        },
+        {
+            "id":6,
+            "name":"Chicken",
+            "position":6,
+            "imageUrl":"https://munch-n-give-app.s3.amazonaws.com/cuisine/Chicken.png"
+        },
+        {
+            "id":7,
+            "name":"Sandwiches",
+            "position":7,
+            "imageUrl":"https://munch-n-give-app.s3.amazonaws.com/cuisine/Sandwiches.png"
+        },
+        {
+            "id":8,
+            "name":"Dessert",
+            "position":8,
+            "imageUrl":"https://munch-n-give-app.s3.amazonaws.com/cuisine/Dessert.png"
+        },
+        {
+            "id":9,
+            "name":"Kids Menu",
+            "position":9,
+            "imageUrl":"https://munch-n-give-app.s3.amazonaws.com/cuisine/KidsMenu.png"
+        },
+        {
+            "id":10,
+            "name":"Coffee and Tea",
+            "position":10,
+            "imageUrl":""
+        },
+        {
+            "id":11,
+            "name":"Pizza",
+            "position":11,
+            "imageUrl":""
+        },
+        {
+            "id":12,
+            "name":"Breakfast",
+            "position":12,
+            "imageUrl":""
+        },
+        {
+            "id":12,
+            "name":"Lunch Specials",
+            "position":12,
+            "imageUrl":""
+        },
+        {
+            "id":13,
+            "name":"Diner",
+            "position":13,
+            "imageUrl":""
+        },
+        {
+            "id":14,
+            "name":"Mexican",
+            "position":14,
+            "imageUrl":""
+        },
+        {
+            "id":15,
+            "name":"Asian",
+            "position":15,
+            "imageUrl":""
+        },
+        {
+            "id":16,
+            "name":"Mediterranean",
+            "position":16,
+            "imageUrl":""
+        },
+        {
+            "id":17,
+            "name":" Indulge",
+            "position":17,
+            "imageUrl":""
+        },
+        {
+            "id":18,
+            "name":"Chinese",
+            "position":18,
+            "imageUrl":""
+        },
+        {
+            "id":19,
+            "name":"Southern",
+            "position":19,
+            "imageUrl":""
+        }
+        
+    ],
+    "address":[
+       {
+           "id":1,
+           "customerId":1,
+           "state":"Karnataka",
+           "city":"Banglore",
+           "address":"Hsr Layout"
+       },
+       {
+        "id":2,
+        "customerId":1,
+        "state":"Andrapradesh",
+        "city":"Nellore",
+        "address":"chakicherla"
+    }
+    ],
+    "restaurentRating":[
+        {
+            "id":1,
+            "restaurentId":1,
+            "customerId":1,
+            "rating":4
+
+        },
+        {
+            "id":2,
+            "restaurentId":2,
+            "customerId":1,
+            "rating":3
+
+        }
+    ],
+
+    "restaurent":[
+        {
+            "id":1,
+            "Name":"Hyderabadi House",
+            "latitude":"",
+            "longitude":"",
+            "preparationTime":"",
+            "imageUrl":""
+        },
+        {
+            "id":2,
+            "Name":"Hyderabad Biryani"
+        }
+    ]
+
+}
