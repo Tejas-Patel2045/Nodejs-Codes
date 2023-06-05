@@ -1,0 +1,19 @@
+{
+    "environment": "dev",
+    "serverPort": 3052,
+    "dbConfig": {
+        "development": {
+            "host": "helenzys-mysql-dev.clyhoefsujtn.us-east-1.rds.amazonaws.com",
+            "user": "munchngive_dev",
+            "password": "thinMa$k61",
+            "database": "munchngive_dev"
+        },
+   "production": {
+    "host": "helenzys-mysql-dev.clyhoefsujtn.us-east-1.rds.amazonaws.com",
+    "user": "munchngive_dev",
+    "password": "thinMa$k61",
+    "database": "munchngive_dev" 
+    }
+    }    
+}
+
